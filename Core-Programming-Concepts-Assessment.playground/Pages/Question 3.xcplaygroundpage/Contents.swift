@@ -24,6 +24,13 @@
  */
 // Answer question 3 below
 
+var spendingMoney : Double = 0.0
+spendingMoney += 50
+spendingMoney /= 3/2
+spendingMoney += 10
+spendingMoney -= 10
+spendingMoney -= 5.50
+spendingMoney *= 2
 /*:
  ## Now share your understanding
  
