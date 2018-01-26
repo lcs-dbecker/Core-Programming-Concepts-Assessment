@@ -24,6 +24,18 @@
  
  */
 // Answer question 2 below
+let bookName = "theSky"
+print("The book name will never change therfore it is a constant.")
+var copiesSold = 50
+print("Every time some bookstore sells a book the copies sold increase therfore it is a variable.")
+let authorName = "dylanBecker"
+print("The author is always the same therefore it is a constant.")
+var sellingPrice = 50
+print("Depending on the bookstore the price may change, therefore it is a variable.")
+let yearPublished = 2017
+print("Year published will not change, therfore it is a constant.")
+
+
 
 /*:
  ## Now share your understanding
