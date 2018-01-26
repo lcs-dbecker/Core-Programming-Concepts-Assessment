@@ -30,6 +30,8 @@
 let currentGrade = 75
 
 // Answer question 6 below
+var currentGrade : Double = 0.0
+var currentGrade = 0
 
 
 /*:
