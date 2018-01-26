@@ -24,6 +24,15 @@
  */
 // Answer question 4 below
 
+let numberApps : Int
+print("The total number of apps are whole numbers since their a re no half apps, therefore it is an integer.")
+let totalHours : Double
+print("Hours, may have parts because of the minutes and seconds, therefore it is a double since it has decimals." )
+let mostPopularApp : String
+print("Most popular app name has a text value thats why it is a string.")
+let date : String
+print("Date includes text therefore it is a string.")
+
 /*:
  ## Now share your understanding
  
